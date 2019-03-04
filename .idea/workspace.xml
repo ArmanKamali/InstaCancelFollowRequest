@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac4e1cfc-2822-430a-b755-9e09d014e1da" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.env/bin/activate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/bin/activate.csh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/bin/activate.fish" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/bin/easy_install" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/bin/easy_install-3.6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/bin/geckodriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/bin/pip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/bin/pip3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/bin/pip3.6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/bin/python" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/bin/python3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/ghostdriver.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/geckodriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/beautifulsoup4-4.7.1.dist-info/AUTHORS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/beautifulsoup4-4.7.1.dist-info/COPYING.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/beautifulsoup4-4.7.1.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/beautifulsoup4-4.7.1.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/beautifulsoup4-4.7.1.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/beautifulsoup4-4.7.1.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/beautifulsoup4-4.7.1.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/beautifulsoup4-4.7.1.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/bs4/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/bs4/builder/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/bs4/builder/_html5lib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/bs4/builder/_htmlparser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/bs4/builder/_lxml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/bs4/dammit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/bs4/diagnose.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/bs4/element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/bs4/testing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/bs4/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/bs4/tests/test_builder_registry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/bs4/tests/test_docs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/bs4/tests/test_html5lib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/bs4/tests/test_htmlparser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/bs4/tests/test_lxml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/bs4/tests/test_soup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/bs4/tests/test_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/easy_install.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip-9.0.1.dist-info/DESCRIPTION.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip-9.0.1.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip-9.0.1.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip-9.0.1.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip-9.0.1.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip-9.0.1.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip-9.0.1.dist-info/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip-9.0.1.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/_vendor/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/basecommand.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/baseparser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/cmdoptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/commands/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/commands/check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/commands/completion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/commands/download.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/commands/freeze.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/commands/hash.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/commands/help.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/commands/install.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/commands/list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/commands/search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/commands/show.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/commands/uninstall.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/commands/wheel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/compat/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/compat/dictconfig.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/download.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/locations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/models/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/operations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/operations/check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/operations/freeze.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/pep425tags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/req/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/req/req_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/req/req_install.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/req/req_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/req/req_uninstall.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/status_codes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/utils/appdirs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/utils/build.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/utils/deprecation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/utils/encoding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/utils/filesystem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/utils/glibc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/utils/hashes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/utils/logging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/utils/outdated.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/utils/packaging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/utils/setuptools_build.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/utils/ui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/vcs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/vcs/bazaar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/vcs/git.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/vcs/mercurial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/vcs/subversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pip/wheel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pkg_resources-0.0.0.dist-info/DESCRIPTION.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pkg_resources-0.0.0.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pkg_resources-0.0.0.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pkg_resources-0.0.0.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pkg_resources-0.0.0.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pkg_resources-0.0.0.dist-info/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pkg_resources/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pkg_resources/_vendor/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pkg_resources/_vendor/appdirs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/__about__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/_compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/_structures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/markers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/requirements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/specifiers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pkg_resources/_vendor/pyparsing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pkg_resources/_vendor/six.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pkg_resources/extern/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/pkg_resources/py31compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium-3.141.0.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium-3.141.0.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium-3.141.0.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium-3.141.0.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium-3.141.0.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium-3.141.0.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/common/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/common/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/android/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/android/webdriver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/blackberry/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/blackberry/webdriver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/chrome/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/chrome/options.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/chrome/remote_connection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/chrome/service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/chrome/webdriver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/common/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/common/action_chains.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/common/actions/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/common/actions/action_builder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/common/actions/input_device.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/common/actions/interaction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/common/actions/key_actions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/common/actions/key_input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/common/actions/mouse_button.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/common/actions/pointer_actions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/common/actions/pointer_input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/common/alert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/common/by.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/common/desired_capabilities.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/common/html5/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/common/html5/application_cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/common/keys.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/common/proxy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/common/service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/common/touch_actions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/common/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/edge/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/edge/options.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/edge/service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/edge/webdriver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/firefox/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/firefox/amd64/x_ignore_nofocus.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/firefox/extension_connection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/firefox/firefox_binary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/firefox/firefox_profile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/firefox/options.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/firefox/remote_connection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/firefox/service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/firefox/webdriver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/firefox/webdriver.xpi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/firefox/webdriver_prefs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/firefox/webelement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/firefox/x86/x_ignore_nofocus.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/ie/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/ie/options.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/ie/service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/ie/webdriver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/opera/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/opera/options.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/opera/webdriver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/phantomjs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/phantomjs/service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/phantomjs/webdriver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/remote/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/remote/command.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/remote/file_detector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/remote/getAttribute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/remote/isDisplayed.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/remote/mobile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/remote/remote_connection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/remote/switch_to.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/remote/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/remote/webelement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/safari/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/safari/permissions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/safari/remote_connection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/safari/service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/safari/webdriver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/support/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/support/abstract_event_listener.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/support/color.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/support/event_firing_webdriver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/support/events.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/support/expected_conditions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/support/select.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/support/ui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/support/wait.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/webkitgtk/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/webkitgtk/options.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/webkitgtk/service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/selenium/webdriver/webkitgtk/webdriver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools-39.0.1.dist-info/DESCRIPTION.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools-39.0.1.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools-39.0.1.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools-39.0.1.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools-39.0.1.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools-39.0.1.dist-info/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools-39.0.1.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools-39.0.1.dist-info/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools-39.0.1.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools-39.0.1.dist-info/zip-safe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/_vendor/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/_vendor/packaging/__about__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/_vendor/packaging/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/_vendor/packaging/_compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/_vendor/packaging/_structures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/_vendor/packaging/markers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/_vendor/packaging/requirements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/_vendor/packaging/specifiers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/_vendor/packaging/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/_vendor/packaging/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/_vendor/pyparsing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/_vendor/six.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/archive_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/build_meta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/cli-32.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/cli-64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/cli.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/command/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/command/alias.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/command/bdist_egg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/command/bdist_rpm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/command/bdist_wininst.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/command/build_clib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/command/build_ext.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/command/build_py.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/command/develop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/command/dist_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/command/easy_install.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/command/egg_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/command/install.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/command/install_egg_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/command/install_lib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/command/install_scripts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/command/launcher manifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/command/py36compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/command/register.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/command/rotate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/command/saveopts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/command/sdist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/command/setopt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/command/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/command/upload.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/command/upload_docs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/dep_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/depends.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/dist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/extension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/extern/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/glibc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/glob.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/gui-32.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/gui-64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/gui.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/launch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/lib2to3_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/monkey.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/msvc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/namespaces.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/package_index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/pep425tags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/py27compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/py31compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/py33compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/py36compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/sandbox.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/script (dev).tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/script.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/site-patch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/ssl_support.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/unicode_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/wheel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/setuptools/windows_support.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/urllib3-1.24.1.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/urllib3-1.24.1.dist-info/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/urllib3-1.24.1.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/urllib3-1.24.1.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/urllib3-1.24.1.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/urllib3-1.24.1.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/urllib3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/urllib3/_collections.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/urllib3/connection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/urllib3/connectionpool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/urllib3/contrib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/urllib3/contrib/_appengine_environ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/urllib3/contrib/_securetransport/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/urllib3/contrib/_securetransport/bindings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/urllib3/contrib/_securetransport/low_level.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/urllib3/contrib/appengine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/urllib3/contrib/ntlmpool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/urllib3/contrib/pyopenssl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/urllib3/contrib/securetransport.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/urllib3/contrib/socks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/urllib3/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/urllib3/fields.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/urllib3/filepost.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/urllib3/packages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/urllib3/packages/backports/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/urllib3/packages/backports/makefile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/urllib3/packages/six.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/urllib3/packages/ssl_match_hostname/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/urllib3/packages/ssl_match_hostname/_implementation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/urllib3/poolmanager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/urllib3/request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/urllib3/response.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/urllib3/util/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/urllib3/util/connection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/urllib3/util/queue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/urllib3/util/request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/urllib3/util/response.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/urllib3/util/retry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/urllib3/util/ssl_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/urllib3/util/timeout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/urllib3/util/url.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib/python3.6/site-packages/urllib3/util/wait.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/lib64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/pyvenv.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/share/python-wheels/CacheControl-0.11.7-py2.py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/share/python-wheels/appdirs-1.4.3-py2.py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/share/python-wheels/certifi-2018.1.18-py2.py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/share/python-wheels/chardet-3.0.4-py2.py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/share/python-wheels/colorama-0.3.7-py2.py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/share/python-wheels/distlib-0.2.6-py2.py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/share/python-wheels/distro-1.0.1-py2.py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/share/python-wheels/html5lib-0.999999999-py2.py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/share/python-wheels/idna-2.6-py2.py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/share/python-wheels/ipaddress-0.0.0-py2.py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/share/python-wheels/lockfile-0.12.2-py2.py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/share/python-wheels/packaging-17.1-py2.py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/share/python-wheels/pip-9.0.1-py2.py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/share/python-wheels/pkg_resources-0.0.0-py2.py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/share/python-wheels/progress-1.2-py2.py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/share/python-wheels/pyparsing-2.2.0-py2.py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/share/python-wheels/requests-2.18.4-py2.py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/share/python-wheels/retrying-1.3.3-py2.py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/share/python-wheels/setuptools-39.0.1-py2.py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/share/python-wheels/six-1.11.0-py2.py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/share/python-wheels/urllib3-1.22-py2.py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/share/python-wheels/webencodings-0.5-py2.py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env/share/python-wheels/wheel-0.30.0-py2.py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Instas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InstaRequestsClear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geckodriver.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/instaAtlas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium101.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/InstaRequestsClear.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="4" lean-forward="true" selection-start-column="4" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/InstaRequestsClear.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="650" />
+    <option name="height" value="743" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Instas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Instas" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.env/bin" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.env/lib/python3.6" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.InstaRequestsClear">
+    <configuration name="InstaRequestsClear" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Instas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InstaRequestsClear.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Instas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Instas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.InstaRequestsClear" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac4e1cfc-2822-430a-b755-9e09d014e1da" name="Default Changelist" comment="" />
+      <created>1551543834008</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551543834008</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="650" height="743" extended-state="4" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.40350878" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32954547" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49920255" weight="0.31655845" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32954547" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="8" weight="0.32954547" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4976489" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5023511" side_tool="true" weight="0.22889611" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///usr/lib/python3.6/shutil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="328" column="32" selection-start-line="328" selection-start-column="32" selection-end-line="328" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InstaRequestsClear.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" lean-forward="true" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
