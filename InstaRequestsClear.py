@@ -4,8 +4,8 @@ from selenium.webdriver.support.wait import WebDriverWait
 from bs4 import BeautifulSoup
 
 # username and password of user
-username = "atlasbentglass"
-password = "0322542812"
+username = ""
+password = ""
 # get driver
 
 driver = webdriver.Firefox()
